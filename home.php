@@ -6,13 +6,7 @@
 		<title>Radiant Amore | Essence of Beauty</title>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-witdth, initial-scale=1">
-		<link href="style.css" type="text/css" rel="stylesheet">
-	
-	<style>
-
-   
-   </style>
-		
+		<link href="style.css" type="text/css" rel="stylesheet">		
 	</head>
 	
 	 <body>
