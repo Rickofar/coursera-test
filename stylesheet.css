@@ -1,0 +1,20 @@
+header li{
+	list-style: none;
+
+}
+
+header a:link, a:visited{
+	text-decoration: none;
+	background-color: blue;
+	border: 1px solid lightblue;
+	color: black;
+	display: block;
+	width: 200px;
+	text-align: center;
+	margin-bottom: 1px;
+}
+
+header a:hover, a:active{
+	background-color: red;
+	color: white;
+}
