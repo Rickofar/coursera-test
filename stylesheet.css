@@ -1,6 +1,11 @@
+*{
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0;
+}
+
 header li{
 	list-style: none;
-
 }
 
 header a:link, a:visited{
@@ -18,3 +23,11 @@ header a:hover, a:active{
 	background-color: red;
 	color: white;
 }
+
+a{
+	text-decoration: none;
+}
+
+
+}
+
